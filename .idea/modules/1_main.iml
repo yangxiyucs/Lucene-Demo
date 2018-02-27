@@ -9,59 +9,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/lucene used/lucene-queryparser-7.2.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/lucene used/lucene-queries-7.2.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/lucene used/lucene-memory-7.2.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/lucene used/lucene-highlighter-7.2.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/lucene used/lucene-core-7.2.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/lucene used/lucene-analyzers-common-7.2.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queryparser:7.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queries:7.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-analyzers-common:7.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-test-framework:7.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-core:7.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-sandbox:7.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-codecs:7.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.carrotsearch.randomizedtesting:randomizedtesting-runner:2.5.3" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.10" level="project" />
   </component>
 </module>
